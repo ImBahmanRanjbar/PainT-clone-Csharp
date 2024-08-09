@@ -1,0 +1,9 @@
+C:\Users\Home\Desktop\ModernForm1\ModernForm1\bin\Debug\ModernForm1.exe.config
+C:\Users\Home\Desktop\ModernForm1\ModernForm1\bin\Debug\ModernForm1.exe
+C:\Users\Home\Desktop\ModernForm1\ModernForm1\bin\Debug\ModernForm1.pdb
+C:\Users\Home\Desktop\ModernForm1\ModernForm1\obj\Debug\PainT.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\ModernForm1\ModernForm1\obj\Debug\ModernForm1.Form1.resources
+C:\Users\Home\Desktop\ModernForm1\ModernForm1\obj\Debug\ModernForm1.Properties.Resources.resources
+C:\Users\Home\Desktop\ModernForm1\ModernForm1\obj\Debug\PainT.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\ModernForm1\ModernForm1\obj\Debug\ModernForm1.exe
+C:\Users\Home\Desktop\ModernForm1\ModernForm1\obj\Debug\ModernForm1.pdb
